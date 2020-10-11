@@ -7,5 +7,5 @@ Feature: Data Tables Feature
     When I attempt to solve it
     Then I surely receive a prize
       | Name          | Value | Rank |
-      | Cinema ticket | 150   | 1    |
+      | Cinema ticket | 100   | 1    |
       | Voucher       | 200   | 2    |
